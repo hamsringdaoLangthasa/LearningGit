@@ -15,3 +15,6 @@ As stated above.
 This is a simple git learning
 
 ## How To Contribute
+
+## Copyright
+2020 hamsringdaolangthasa.com
