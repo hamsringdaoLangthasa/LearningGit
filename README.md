@@ -11,6 +11,7 @@ This is example is to show different parts of the Git repo and various command u
 As stated above.
 
 ## Deployment
+How to deploy the website
 
 This is a simple git learning
 
