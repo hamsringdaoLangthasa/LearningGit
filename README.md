@@ -11,6 +11,9 @@ This is example is to show different parts of the Git repo and various command u
 line deleted and added new line
 
 ## Deployment
+
+How to deploy the website
+
 Steps to deploy website
 This is a simple git learning
 
