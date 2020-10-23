@@ -15,6 +15,7 @@ As stated above.
 This is a simple git learning
 
 ## How To Contribute
+Please fork this repo to contribute
 
 ## Copyright
 2020 hamsringdaolangthasa.com
