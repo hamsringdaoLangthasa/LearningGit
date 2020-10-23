@@ -8,10 +8,10 @@ This is example is to show different parts of the Git repo and various command u
 
 ## Purpose
 
-As stated above.
+line deleted and added new line
 
 ## Deployment
-
+Steps to deploy website
 This is a simple git learning
 
 ## How To Contribute
